@@ -1,2 +1,4 @@
 # FGR
-first git repository
+# Quck test
+print('Hello Github')
+
